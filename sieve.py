@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import math
 import time
 n = int(input('Please input range: '))

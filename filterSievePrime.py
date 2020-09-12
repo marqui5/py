@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import time
 cnt = 0
 def _odd_iter():

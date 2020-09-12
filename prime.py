@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import time
 n = int(input('Please input range: '))
 a = []

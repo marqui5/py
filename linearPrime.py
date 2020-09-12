@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 n = int(input('Please input range: '))
 a = []
 p = []
